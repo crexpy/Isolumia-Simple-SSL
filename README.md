@@ -3,9 +3,12 @@ Simple Dead by Daylight Unlocker working on Steam
 
 ## Requirements
 .NET 8 SDK <br>
-https://dotnet.microsoft.com/en-us/download/dotnet/8.0 <br><br>
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0 <br><br><br>
+
+Anti-Virus fully disabked - I recommend using Sordum Defender Control <br>
+https://www.sordum.org/9480/defender-control-v2-1/ <br><br>
 Core Isolation, Secure Boot and TPM disabled <br>
-Uninstalling both Vanguard and Faceit if existing<br>
+Uninstalling both Vanguard and Faceit if existing <br>
 Uninstalling MSI Afterburner
 
 ## Support
