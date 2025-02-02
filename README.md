@@ -10,10 +10,13 @@ https://dotnet.microsoft.com/en-us/download/dotnet/8.0 <br><br>
 
 Anti-Virus fully disabled - I recommend using Sordum Defender Control <br>
 https://www.sordum.org/9480/defender-control-v2-1/ <br><br>
-Core Isolation, Secure Boot and TPM disabled <br>
-Uninstalling both Vanguard and Faceit if existing <br>
-Uninstalling MSI Afterburner <br><br>
+Core Isolation disabled <br>
+Uninstall Faceit if existing <br>
+Uninstalling MSI Afterburner <br>
 
+02/02/2025:
+You now no longer need to disable TPM, Secure Boot or uninstall Vanguard to use the SSL Bypass.
+<br><br>
 ## Showcase
 https://cdn.isolumia.com/simplesslshowcase <br><br>
 
