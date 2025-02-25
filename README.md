@@ -1,6 +1,10 @@
 # Isolumia-Simple-SSL
 Simple Dead by Daylight Unlocker working on Steam <br><br>
 
+## Socials
+https://discord.gg/cookingclub <br>
+https://cookingclub.xyz <br><br>
+
 ## Open-Source Epic & Microsoft Store version
 https://github.com/crexpy/Isolumia-Simple/ <br><br>
 
@@ -22,8 +26,4 @@ https://cdn.isolumia.com/simplesslshowcase <br><br>
 
 ## Support
 If you need help please join my Discord and open a ticket or ask other users in chat<br>
-https://discord.gg/cookingclub <br><br>
-
-## Socials
-https://discord.gg/cookingclub <br>
-https://cookingclub.xyz
+https://discord.gg/cookingclub
