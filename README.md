@@ -1,6 +1,10 @@
 # Isolumia-Simple-SSL
 Simple Dead by Daylight Unlocker working on Steam <br><br>
 
+## PERMANENT STEAM DLCS
+Permanent Steam DLCs are a Discord-exclusive. Join below to get them! <br><br>
+[![Join our Discord](https://invidget.switchblade.xyz/ZBsJ834qxj)](https://discord.gg/ZBsJ834qxj)<br><br>
+
 ## Socials
 https://discord.gg/cookingclub <br>
 https://cookingclub.xyz <br><br>
